@@ -1,0 +1,2 @@
+# NewsCapture
+Android Application
